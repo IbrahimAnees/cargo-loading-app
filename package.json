@@ -1,0 +1,14 @@
+{
+  "name": "cargo-trolley-calculator",
+  "version": "1.0.0",
+  "description": "Calculate number of trolleys required based on cargo manifest",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "author": "Ibrahim Anees"
+}
